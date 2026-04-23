@@ -1,29 +1,3 @@
-# 👋
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🔐 Focado em **Segurança da Informação**  
-📚 Estudando principalmente **Segurança Ofensiva**, **Redes** e **Gestão de Riscos**  
-
----
-
-## Áreas de estudo
-
-- Protocolos de rede: **DHCP, HTTP/HTTPS, TCP/UDP e IPsec**
-- Modelos de referência: **OSI e TCP/IP**
-- **DNS e roteamento**
-- **FortiGate**: FortiGuard, Web Filter e FQDN
-- **SDP/VPN e Firewall**
-- **Wazuh (SIEM)**
-- **Lumu Technologies (EDR / Threat Detection)**
-- **GRC e Matriz de Riscos**
-- Sistemas Operacionais: **Kali Linux, Ubuntu, Linux e Windows 10/11**
-- **Java**
-- **Python**
-- **Nmap**
-- **Shodan**
-
----
-
 ## Tecnologias e ferramentas
 
 <p>
