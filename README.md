@@ -6,13 +6,6 @@
 
 ---
 
-## Sobre mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas, com direcionamento para a área de Segurança da Informação.  
-Busco desenvolver conhecimentos técnicos e práticos em temas como redes, firewalls, monitoramento, detecção, gestão de riscos e segurança ofensiva.
-
----
-
 ## Áreas de estudo
 
 - Protocolos de rede: **DHCP, HTTP/HTTPS, TCP/UDP e IPsec**
@@ -24,6 +17,7 @@ Busco desenvolver conhecimentos técnicos e práticos em temas como redes, firew
 - **Lumu Technologies (EDR / Threat Detection)**
 - **GRC e Matriz de Riscos**
 - Sistemas Operacionais: **Kali Linux, Ubuntu, Linux e Windows 10/11**
+- **Java**
 - **Python**
 - **Nmap**
 - **Shodan**
@@ -50,14 +44,12 @@ Busco desenvolver conhecimentos técnicos e práticos em temas como redes, firew
 
 ---
 
-## Atualmente estudando
+## Estatísticas do GitHub
 
-- Segurança Ofensiva
-- Fundamentos de Redes
-- Firewall e Controle de Acesso
-- Monitoramento e Correlação de Eventos
-- Gestão de Riscos em Segurança da Informação
-- DevSecOps
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guiimattos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiimattos&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
